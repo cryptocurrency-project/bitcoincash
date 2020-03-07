@@ -5,8 +5,8 @@
 Bitcoinと同様
 
 ## Bitcoin Cash Explorer
-[blockchain.com BCH](https://www.blockchain.com/ja/explorer?currency=BCH)
-[bitcoin.com bch](https://explorer.bitcoin.com/bch)
+[blockchain.com BCH](https://www.blockchain.com/ja/explorer?currency=BCH)  
+[bitcoin.com bch](https://explorer.bitcoin.com/bch)  
 [bch.btc.com](https://bch.btc.com/)
 
 ## Build method
